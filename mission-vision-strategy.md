@@ -40,3 +40,71 @@ This perspective is often adopted because it's a very clear and actionable model
  * Creates a roadmap (Strategy): Finally, you create the detailed plan to get there.
 
 Both frameworks are valid, but they use the same terms to describe different relationships. The key is to be consistent within your own organization and communication. The important thing is to have a clear understanding of your purpose, a compelling picture of your future, and a solid plan to get there, regardless of which word you use to describe each component.
+
+Here is the combined content in Markdown format:
+
+⸻
+
+🔗 Connecting Vision, Mission, Strategy with Why, What, How
+
+🧭 Primary Mapping Framework
+
+To align the sets — vision, mission, strategy with why, what, how — we can map them in the following way:
+
+✅ Why → Mission and Vision
+	•	Vision: The highest-level “why” — the ultimate destination or the future you want to create.
+It answers: “Why do we exist in the long run?” or “What kind of world do we want to shape?”
+	•	Mission: A more concrete version of “why” — the organization’s present-day purpose.
+It answers: “Why are we doing this?” or “What is our purpose today?”
+
+⸻
+
+✅ What → Strategy
+	•	Strategy defines what you will do to realize the mission and move toward the vision.
+It answers: “What actions will we take?” or “What is our plan to win?”
+
+⸻
+
+✅ How → Execution (Tactics)
+	•	The “how” is about how you implement the strategy.
+It answers: “How will we execute our plan?” or “What processes, systems, and tactics will we use?”
+
+⸻
+
+💡 Alternative Framework: Vision as the “What”
+
+In some business literature (such as the LinkedIn post you mentioned), vision is framed as the “what” instead of the “why.” This comes from a different but also valid strategic planning approach:
+
+🔄 Remapped Interpretation
+	•	Why → Mission
+The purpose behind current existence.
+“Why do we do what we do?”
+	•	What → Vision
+The envisioned future.
+“What will success look like?”
+	•	How → Strategy
+The roadmap.
+“How will we make that vision come true?”
+
+⸻
+
+📌 Why This View Is Popular
+	•	Mission = Purpose → Anchors the organization in meaning and values.
+	•	Vision = Destination → Defines a clear, compelling future state.
+	•	Strategy = Path → Breaks down the journey into actionable steps.
+
+This model is especially actionable because it encourages clarity at every level — from purpose to destination to execution.
+
+⸻
+
+🎯 Final Thoughts
+
+Both interpretations are valid. The key is to be internally consistent and ensure everyone in the organization clearly understands:
+	1.	Why you exist (Mission)
+	2.	What you’re trying to achieve (Vision)
+	3.	How you’ll get there (Strategy)
+
+Regardless of naming conventions, the alignment between purpose, ambition, and execution is what ultimately drives meaningful results.
+
+⸻
+
